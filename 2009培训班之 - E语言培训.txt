@@ -1,0 +1,20 @@
+第一课：教新手认识E语言 
+http://down.hackp.com/2009e/e1.rar
+第二课：E语言的组件的认识
+http://dx.hackp.com/2009e/2.rar
+第三课：E语言组件的认识 （画板 分组框 标签 按钮）
+http://dx.hackp.com/2009e/3.rar
+第四课：E语言组件的认识 （选择框 单选框 组合框 列表框）
+http://dx.hackp.com/2009e/e4.rar 
+第五课：E语言组件的认识
+http://dx.hackp.com/2009e/5l.rar
+第六课：E语言组件-滑块条,选择夹,影像框,日期框
+http://dx.hackp.com/2009e/e6.rar
+第七课：月历,驱动器框目录框,文件夹框
+http://dx.hackp.com/2009e/7ee.rar
+第八课：颜色选择器,超级链接框等组件  
+http://dx.hackp.com/2009e/e8e.rar
+第九课：时钟，打印机，数据报等组件
+http://dx.hackp.com/2009e/9e9.rar
+第十课：E语言编写自己第一个程序
+http://dx.hackp.com/2009e/10e10.rar

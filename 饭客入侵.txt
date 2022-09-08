@@ -1,0 +1,59 @@
+第一课 工具的使用及概念的介绍
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/1.rar
+
+
+第二课：AC数据库的入侵
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/2.rar
+
+
+第三课：后台的利用方法大全
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/3.rar
+
+
+第四课上：SA权限的利用教程
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/4.rar
+
+
+第四课下：SA DB权限的利用教程
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/4.rar
+
+
+第五课： 旁注的意义
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/5.rar
+
+
+第六课： cookis欺骗的利用
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/6.rar
+
+
+第七课： 整站程序的利用
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/7.rar
+第八课： 跨站的利用
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/8.rar
+
+
+第十课： ARP嗅叹
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/10.rar
+
+
+第十一课： 手工注入的利用
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/11.rar
+
+
+第十二课： PHP网站的手工检测
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/12.rar
+
+
+第十三课 JSP的入侵手段
+课程下载：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/13.rar
+
+
+入侵小窍门之NC提交双份数据包欺骗网站
+下载地址：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/NC另类提交.rar
+
+
+第十六课 实战内网渗透房产局+提权+内网拿服务器
+下载地址：http://www.hackfans.com.cn/video/vipjiaocheng/tiquan/16.rar
+
+第十七课 nc和lcx用法
+下载地址：http://www.hackfans.com.cn/video/vipjiaocheng/ruqinfan/nc和lcx用法.rar

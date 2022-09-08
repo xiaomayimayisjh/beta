@@ -1,0 +1,40 @@
+黑防VIP提权服务器20课程
+http://vipsoft1.hacker.com.cn/vip1-down/tiquan/1mrqx-ok.rar [第1课]Windows 2003服务器默认用户权限
+
+http://vipsoft1.hacker.com.cn/vip1-down/tiquan/2wjqx-ok.rar [第2课]Windows 2003服务器默认文件夹权限
+
+http://vipsoft1.hacker.com.cn/vip1-down/tiquan/3wjqx-ok.rar [第3课]Windows-2003-webshell默认权限
+
+http://vipsoft1.hacker.com.cn/vip1-down/tiquan/4wjqx-ok.rar [第4课]追查sql server密码信息
+
+http://vipsoft1.hacker.com.cn/vip1-down/tiquan/5wjqx-ok.rar [第5课]追查mysql帐户信息
+
+http://124.238.224.141/vipsoft1/vip1-down/tiquan/6wjqx-ok.rar [第6课]追查serv-u ftp帐户信息
+
+http://124.238.224.141/vipsoft1/vip1-down/tiquan/7wjqx-ok.rar[第7课]通过pcanywhere提生权限
+
+http://vipsoft1.hacker.com.cn/vip1-down/tiquan/8wjqx-ok.rar[第8课]用radmin提生权限
+
+http://124.238.224.141/vipsoft1/vip1-down/tiquan/9wjqx-ok.rar[第9课]获取Flashfxp帐号密码提生权限
+
+http://vipsoft1.hacker.com.cn/vip1-down/tiquan/10wjqx-ok.rar[第10课]破sam文件提权 
+
+http://vipsoft1.hacker.com.cn/vip1-down/tiquan/vip11mrqx-ok.rar[第11课]VNC密码破解提权
+
+http://vipsoft1.hacker.com.cn/vip1-down/tiquan/12viplyqx_ok.rar[第12课]利用perl提升权限
+
+http://124.238.224.141/vipsoft1/vip1-down/tiquan/13xrqx-ok.rar[第13课]写入启动项目提权
+
+http://124.238.224.141/vipsoft1/vip1-down/tiquan/14CAclsqx_ok.rar[第14课]CAcls命令在提权中的使用
+
+http://124.238.224.141/vipsoft1/vip1-down/tiquan/15CMDSHELqx_ok.rar[第15课]绕过限制调用CMDSHELL
+
+http://124.238.224.141/vipsoft1/vip1-down/tiquan/16ftpqx_ok.rar[第16课]serv-u ftp本地溢出权限提升
+
+http://124.238.224.141/vipsoft1/vip1-down/tiquan/17fg-qx-ok.rar[第17课]serv-u ftp覆盖提权ServUDaemon.ini
+
+http://124.238.224.141/vipsoft1/vip1-down/tiquan/18serv-u-ftp-qx.rar[第18课]18serv-u ftp转发端口
+
+http://124.238.224.141/vipsoft1/vip1-down/tiquan/19vipqx-ok.rar [第19 课]19替换服务-文件提权
+
+http://124.238.224.141/vipsoft1/vip1-down/tiquan/20viptq-zdbd.rar [第20课]0全自动系统补丁

@@ -1,0 +1,108 @@
+53个免杀教程   
+免杀教程   
+1 认识常见杀毒软件、及特点以及查杀原理   
+http://www.fs2you.com/files/5f68dec2-a4da-11dc-978a-0014221f3995/   
+2免杀基础名词解释   
+http://www.fs2you.com/files/bcea780c-a4db-11dc-8cad-00142218fc6e/   
+3构造免杀环境与常见免杀工具功能介绍   
+http://www.fs2you.com/files/dac77c54-a4dc-11dc-a853-0014221b798a/   
+4什么是壳以及国内外优秀壳介绍   
+http://www.fs2you.com/files/5b352be3-a4dc-11dc-a1a9-00142218fc6e/   
+5详细讲解加壳免杀盗QQ软件   
+http://www.fs2you.com/files/25dcf368-a4dd-11dc-946d-0014221f4662/   
+6灰鸽子2005简单加壳免杀动画   
+http://www.fs2you.com/files/7b32220f-a4de-11dc-8e25-0014221f3995/   
+7加多重壳免杀   
+http://www.fs2you.com/files/4ab8bb4f-a4e1-11dc-b97b-00142218fc6e/   
+8花指令的编写和运用   
+http://www.fs2you.com/files/3f68bbf8-a4df-11dc-afd8-0014221f4662/   
+9PE头免杀修改与反调试方法   
+http://www.fs2you.com/files/372c40d1-a4e0-11dc-9fc4-0014221f4662/   
+10加区加花和加多重花   
+http://www.fs2you.com/files/ff5f2b8f-a4e1-11dc-895c-0014221b798a/   
+11花指令总结篇   
+http://www.fs2you.com/files/3ce814fa-a4e2-11dc-b3d6-0014221b798a/   
+12制作免杀的CSERVER   
+http://www.fs2you.com/files/8d916105-a4e2-11dc-a04c-00142218fc6e/   
+13dll内存地址查找   
+http://www.fs2you.com/files/36872570-a4e3-11dc-9cc3-0014221f4662/   
+14MYCCL内存定位   
+http://www.fs2you.com/files/2ad9ae2b-a4e4-11dc-81e8-0014221b798a/   
+15灰鸽子内存特征码修改   
+http://www.fs2you.com/files/1cdb0c5c-a4e5-11dc-8163-0014221f4662/   
+16导出DLL做服务端免杀   
+http://www.fs2you.com/files/9163cb7d-a4ea-11dc-854e-0014221b798a/   
+17定位DLL文件   
+http://www.fs2you.com/files/7210b617-a4ec-11dc-8e25-0014221f3995/   
+18改壳免杀   
+http://www.fs2you.com/files/45c11e68-a4ed-11dc-b99c-0014221f3995/   
+19傀儡僵尸VIP1.4免杀   
+http://www.fs2you.com/files/d50c5787-a4ed-11dc-8994-0014221b798a/   
+20内存特征码的定位   
+http://www.fs2you.com/files/8578683a-a4ee-11dc-b46c-0014221f4662/   
+21轻松突破Nod32启发式   
+http://www.fs2you.com/files/666636d9-a4f1-11dc-af84-0014221b798a/   
+22驱动文件免杀   
+http://www.fs2you.com/files/52b41e05-a4f2-11dc-8fd5-0014221b798a/   
+23输入表重建   
+http://www.fs2you.com/files/6ef4c4de-a4f3-11dc-9fd5-0014221f3995/   
+24特征码定位在输入表免杀(移位法)   
+http://www.fs2you.com/files/1cca1dc5-a4f5-11dc-935b-0014221f3995/   
+25文件表面定位特征码   
+http://www.fs2you.com/files/e730eef0-a4f6-11dc-95bb-0014221f3995/   
+26修改ANSI字符串免杀金山数据流   
+http://www.fs2you.com/files/24039b8f-a4f7-11dc-a0bf-0014221f3995/   
+27vip实战免杀   
+http://www.fs2you.com/files/660c4445-a4f8-11dc-a3a0-0014221f4662/   
+28鸽子最新过卡吧   
+http://www.fs2you.com/files/23f83b8f-a4f9-11dc-94c7-00142218fc6e/   
+29实战黑防鸽子改特征码过NOD32   
+http://www.fs2you.com/files/c60c9811-a4fa-11dc-889d-0014221f4662/   
+30实战黑防鸽子改特征码过瑞星   
+http://www.fs2you.com/files/7b67e16e-a50d-11dc-9b26-0014221b798a/   
+31 C32驱动文件的修改   
+http://www.fs2you.com/files/0e0d5c19-a50e-11dc-b1c8-0014221f3995/   
+32 KEYMAKE制作免杀补丁   
+http://www.fs2you.com/files/72f02111-a50e-11dc-9491-0014221f3995/   
+33 Overlay附加数据处理   
+http://www.fs2you.com/files/51d4b328-a50f-11dc-afae-00142218fc6e/   
+34 DLL脱壳重定位   
+http://www.fs2you.com/files/9419a433-a50f-11dc-a766-0014221f3995/   
+35 Reloc&Rock壳变形   
+http://www.fs2you.com/files/fa0efbae-a50f-11dc-a959-0014221f4662/   
+36 ResScope资源修改&FixRes资源修复   
+http://www.fs2you.com/files/3d66528a-a510-11dc-94cd-0014221f4662/   
+37 SEH异常的应用   
+http://www.fs2you.com/files/eeae80ee-a510-11dc-8a7c-0014221b798a/   
+38 VM加密保护    
+http://www.fs2you.com/files/3694eaa8-a4fb-11dc-813e-00142218fc6e/   
+39 PCSHARE加壳免杀   
+http://www.fs2you.com/files/5bfe4b02-a4fd-11dc-95ec-0014221b798a/   
+40 PCSHARE修改特征码免杀   
+http://www.fs2you.com/files/7512766b-a500-11dc-a99d-0014221f3995/   
+41 UPX经典改壳法   
+http://www.fs2you.com/files/947fe4de-a509-11dc-b1de-0014221f4662/   
+42 加壳免杀4   
+http://www.fs2you.com/files/3c447c0c-a50a-11dc-b359-0014221f4662/   
+43 鸽子DLL免杀   
+http://www.fs2you.com/files/f93c6323-a50a-11dc-a47b-00142218fc6e/   
+44 鸽子捆绑免杀   
+http://www.fs2you.com/files/6405365e-a50b-11dc-ad3e-0014221b798a/   
+45 加壳免杀5   
+http://www.fs2you.com/files/9fb9fd9c-a50b-11dc-a5b8-0014221b798a/   
+46 过专杀   
+http://www.fs2you.com/files/09b31f45-a50c-11dc-ac46-0014221b798a/   
+47 加壳免杀6   
+http://www.fs2you.com/files/d03a3e35-a50c-11dc-a2be-0014221f3995/   
+48 加壳免杀7   
+http://www.fs2you.com/files/4f813275-a512-11dc-a180-0014221b798a/   
+49 加壳免杀1   
+http://www.fs2you.com/files/19d52775-a513-11dc-9d99-00142218fc6e/   
+50 加壳免杀2   
+http://www.fs2you.com/files/7bb4e47a-a513-11dc-8087-0014221f3995/   
+51 加壳免杀3   
+http://www.fs2you.com/files/600b2dc0-a514-11dc-aa37-0014221f4662/   
+52 壳变型免杀1   
+http://www.fs2you.com/files/c1ffc763-a514-11dc-95f0-0014221f4662/   
+53 壳变型免杀2   
+http://www.fs2you.com/files/478fbe5e-a515-11dc-8adb-0014221f3995/

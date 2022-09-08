@@ -1,0 +1,50 @@
+第一讲 VC++集成开发环境
+http://202.116.32.249/visual%20c++/disk1/01/01.asf
+第二讲 WINDOWS应用程序基础
+http://202.116.32.249/visual%20c++/disk1/02/02.asf
+
+第三讲 WINDOWS的图形设备接口及WINDOWS绘图
+http://202.116.32.249/visual%20c++/disk1/03/03.asf
+第四讲 文本与字体
+http://202.116.32.249/visual%20c++/disk1/04/04.asf
+
+第五讲 WINDOWS应用程序中的键盘与鼠标
+http://202.116.32.249/visual%20c++/disk1/05/05.asf
+
+第六讲 资源在windows编程中的应用（上）
+http://202.116.32.249/visual%20c++/disk2/06/06.asf
+
+第七讲 资源在windows编程中的应用（下）
+http://202.116.32.249/visual%20c++/disk2/07/07.asf
+
+第八讲 WINDOWS标准控件（上）
+http://202.116.32.249/visual%20c++/disk2/08/08.asf
+
+第九讲 WINDOWS标准控件（下）
+http://202.116.32.249/visual%20c++/disk2/09/09.asf
+
+第十讲 文件及剪贴板操作
+http://202.116.32.249/visual%20c++/disk2/10/10.asf
+
+第十一讲 MFC设计应用程序的基础知识
+http://202.116.32.249/visual%20c++/disk2/11/11.asf
+
+第十二讲 制作含编辑框的应用程序
+http://202.116.32.249/visual%20c++/disk3/12/12.asf
+
+第十三讲 菜单设计
+http://202.116.32.249/visual%20c++/disk3/13/13.asf
+
+第十四讲 制作含滚动条的应用程序
+http://202.116.32.249/visual%20c++/disk3/14/14.asf
+
+第十五讲 按钮控件与列表框控件
+http://202.116.32.249/visual%20c++/disk3/15/15.asf
+
+第十六讲 工具条
+http://202.116.32.249/visual%20c++/disk3/16/16.asf
+
+第十七讲 单文档与多文档
+http://202.116.32.249/visual%20c++/disk3/17/17.asf
+
+建议使用暴风影音2009观看

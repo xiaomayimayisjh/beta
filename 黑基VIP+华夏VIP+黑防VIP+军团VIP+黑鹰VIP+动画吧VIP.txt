@@ -1,0 +1,1092 @@
+黑基VIP+华夏VIP+黑防VIP+军团VIP+黑鹰VIP+动画吧VIP
+
+黑客基地VIP教程1-104课下载
+使用讯雷下载
+
+第一课 配置安全的个人计算机
+http://vip.hackbase.com/vipsoft/vipteacher/anquan0922.zip
+第二课 SQL注入技术实例讲解
+http://vip.hackbase.com/vipsoft/vipteacher/sqlru0922.zip
+第三课 手工清除QQ连发消息病毒
+http://vip.hackbase.com/vipsoft/vipteacher/qqav0927.zip
+第四课 配置最流行的WEB服务器
+http://vip.hackbase.com/vipsoft/vipteacher/iis1010.zip
+第五课 组建DNS和DHCP服务器
+http://vip.hackbase.com/vipsoft/vipteacher/dnsdhcp.zip
+第六课 模拟黑客攻击和安全防护
+http://vip.hackbase.com/vipsoft/vipteacher/hacksec.zip
+第七课 个人计算机安全终极配置
+http://vip.hackbase.com/vipsoft/vipteacher/psec.zip
+第八课 如何查杀木马
+http://vip.hackbase.com/vipsoft/vipteacher/muma1107.zip
+第九课 如何查杀木马利用工具
+http://vip.hackbase.com/vipsoft/vipteacher/tools1107.zip
+第十课 入侵前的准备
+http://vip.hackbase.com/vipsoft/vipteacher/ruqin.zip
+第十一课 网络地址转换NAT
+http://vip.hackbase.com/vipsoft/vipteacher/nat1122.zip
+第十二课 组建虚拟网络VPN
+http://vip.hackbase.com/vipsoft/vipteacher/vpn.zip
+第十三课 漏洞利用漏洞(一)
+http://vip.hackbase.com/vipsoft/vipteacher/iisexp.zip
+第十四课 配置黑客工具
+http://vip.hackbase.com/vipsoft/vipteacher/FantasyX.zip
+第十五课 MsSql Server安装和配置
+http://vip.hackbase.com/vipsoft/vipteacher/sql.zip
+第十六课 Win2000入门到精通 (一)
+http://vip.hackbase.com/vipsoft/vipteacher/win2000.zip
+第十七课 Win2000入门到精通 (二)
+http://vip.hackbase.com/vipsoft/vipteacher/w2kset.zip
+第十八课 Windows 2000高级操作
+http://vip.hackbase.com/vipsoft/vipteacher/network.zip
+第十九课 Win2000的灵魂(一)
+http://vip.hackbase.com/vipsoft/vipteacher/ad.zip
+第二十课 Win2000的灵魂(二)
+http://vip.hackbase.com/vipsoft/vipteacher/winad.zip
+第二十一课 Windows 2000安全配置
+http://vip.hackbase.com/vipsoft/vipteacher/w2ksec.zip
+第二十二课 溢出入侵教程
+http://vip.hackbase.com/vipsoft/vipteacher/mydoor.zip
+第二十三课 后门的使用方法
+http://vip.hackbase.com/vipsoft/vipteacher/backdoor.zip
+第二十四课 漏洞利用
+http://vip.hackbase.com/vipsoft/vipteacher/telne.zip
+第二十五课 建立自己的PHP论坛
+http://vip.hackbase.com/vipsoft/vipteacher/php.zip
+第二十六课 DOS系统基础讲解
+http://vip.hackbase.com/vipsoft/vipteacher/20040313.zip
+第二十七课 Windows系统进程优化与系统安全加固
+http://vip.hackbase.com/vipsoft/vipteacher/20040320winyh.zip
+第二十八课 入侵后日志的清除(一)
+http://vip.hackbase.com/vipsoft/vipteacher/log.zip
+第二十九 入侵后的日志清除(二)
+http://vip.hackbase.com/vipsoft/vipteacher/clearlog.zip
+第三十课 黑基会员学习方法(必学-非常重要)
+http://vip.hackbase.com/vipsoft/vipteacher/20040410fangfa.zip
+第三十一课 入侵后如何上传后门
+http://vip.hackbase.com/vipsoft/vipteacher/upl.zip
+第三十二课 注册表应用教程
+http://vip.hackbase.com/vipsoft/vipteacher/reg.zip
+第三十三课 代理Proxy服务器技术学习一
+http://vip.hackbase.com/vipsoft/vipteacher/20040508proxy.zip
+第三十四课 代理Proxy服务器技术学习二
+http://vip.hackbase.com/vipsoft/vipteacher/20040515proxy2.zip
+第三十五课 Windows组策略配置详解
+http://vip.hackbase.com/vipsoft/vipteacher/20040522zcl.zip
+第三十六课 聊天室搭建及常用攻防技巧
+http://vip.hackbase.com/vipsoft/vipteacher/20040529chat.zip
+第三十七课 个人电脑与网站服务器安全
+http://vip.hackbase.com/vipsoft/vipteacher/20040612pcserver.zip
+第三十八课 让电脑百毒不侵防火墙规则设置+杀毒软件+QQ病毒手动分析查杀
+http://vip.hackbase.com/vipsoft/vipteacher/20040619fsq.zip
+第三十九课 UNICODE编码漏洞+后门隐藏设置与防范
+http://vip.hackbase.com/vipsoft/vipteacher/20040626unicode.zip
+第四十课 DDOS攻击安全分析与实例演示
+http://vip.hackbase.com/vipsoft/vipteacher/20040703ddos.zip
+第四十一课 FTP服务器的建立配置和安全
+http://vip.hackbase.com/vipsoft/vipteacher/20040711ftp.zip
+第四十二课 零起点培训如何破解软件和制做注册机
+http://vip.hackbase.com/vipsoft/vipteacher/200407170pj.rar
+第四十四课 破解高手--实战查壳脱壳制作破解注册机最详细的教程
+http://vip.hackbase.com/vipsoft/vipteacher/20040801teach.rar
+第四十五课 SQL注入入侵网站实战教程程
+http://vip.hackbase.com/vipsoft/vipteacher/20040807sqlzr.zip
+第四十六课 Linux单操作系统安装(Linux第1课)
+http://vip.hackbase.com/vipsoft/vipteacher/20040815linuxtest.zip
+第四十七课 Linux基础入门简介(Linux第2课)
+http://vip.hackbase.com/vipsoft/vipteacher/20040821linuxdiyi.zip
+第四十八课 VmwareGSX S2.5虚拟机安装与使用详解
+http://vip.hackbase.com/vipsoft/vipteacher/usevmware.zip
+第四十九课 Linux字符+图形界面安装配置(Linux第3课)
+http://vip.hackbase.com/vipsoft/vipteacher/20040828linuxsetup.zip
+第五十课 Linux与Windows双系统安装(Linux第4课)
+http://vip.hackbase.com/vipsoft/vipteacher/20040904lw2.zip
+第五十一课 Linux桌面介绍与网络上网配置(Linux第5课)
+http://vip.hackbase.com/vipsoft/vipteacher/20040911linuxzn.zip
+第五十二课Linux文件系统详细讲解(Linux第6课)
+http://vip.hackbase.com/vipsoft/vipteacher/20040918linuxfile.zip
+第五十三课 Linux文件系统常用命令讲述(Linux第7课)
+http://vip.hackbase.com/vipsoft/vipteacher/20040925linuxcmd.zip
+第五十四课 Linux目录文件操作命令讲解(Linux第8课)
+http://vip.hackbase.com/vipsoft/vipteacher/20040926linuxdir.zip
+第五十五课经典的linux下VI编辑器(Linux第9课)
+http://vip.hackbase.com/vipsoft/v& ... 41016linuxviedit.rar
+第五十六课linux下GRUB配置方法(Linux第10课)
+http://vip.hackbase.com/vipsoft/vip& ... 23linuxGRUBconfig.rar
+第五十七课 Linux下压缩文件使用教程(Linux第11课)
+http://vip.hackbase.com/vipsoft/vipteacher/20041029linuxrar.rar
+第五十八课 Linux下压缩包安装使用(Linux第12课)
+http://vip.hackbase.com/vipsoft/vipteacher/20041106linuxrar.rar
+第五十九课 Vmware4.5虚拟机安装与使用
+http://vip.hackbase.com/vipsoft/bigsoft/VMware.zip
+第六十课 Linux下GRUB问题讲解(Linux第13课)
+http://vip.hackbase.com/vipsoft/vipteacher/20041113linux18.rar
+第六十一课 Linux用户管理详细配置(Linux第14课)
+http://vip.hackbase.com/vipsoft/vipteacher/20041114linux19.rar
+第六十二课 Linux中进程管理详解(Linux第15课)
+http://vip.hackbase.com/vipsoft/vipteacher/20041120linux20.rar
+第六十三课 Linuxlinux下的日志文件(Linux第16课)
+http://vip.hackbase.com/vipsoft/vipteacher/20041127linux.rar
+第六十四课 Linux下程序shell编程简介(Linux第17课)
+http://vip.hackbase.com/vipsoft/vipteacher/20041205linux.rar
+第六十五课 Linux下的网络基础配置(Linux第18课)
+http://vip.hackbase.com/vipsoft/vipteacher/200411211inux18.rar
+第六十六课 Linux下的DHCP服务器(Linux第19课)
+http://vip.hackbase.com/vipsoft/vipteacher/20041217inux19.rar
+第六十七课 Linux下的samba服务器(Linux第20课)
+http://vip.hackbase.com/vipsoft/vipteacher/20041225inux20.rar
+第六十八课 Linux下的samba服务器2(Linux第21课)
+http://vip.hackbase.com/vipsoft/vipteacher/20050101inux21.rar
+第六十九课 破解注册软件视频教程
+http://vip.hackbase.com/vipsoft/vipteacher/20050102pojie.rar
+第七十课 linux下DNS服务器设置详解1(Linux第22课)
+http://vip.hackbase.com/vipsoft/vipteacher/20050108inux22.rar
+第七十一课 linux下DNS服务器设置详解2 (Linux第23课)
+http://vip.hackbase.com/vipsoft/vipteacher/20050115inux23.rar
+第七十二课 linux下DNS服务器设置详解3 (Linux第24课)
+http://vip.hackbase.com/vipsoft/vipteacher/20050122inux24.rar
+第七十三课 linux下架设apache服务器一 (Linux第25课)
+http://vip.hackbase.com/vipsoft/vipteacher/20050129inux25.rar
+第七十四课 linux下架设apache服务器二 (Linux第26课)
+http://vip.hackbase.com/vipsoft/vipteacher/20050205inux26.rar
+第七十五课 linux下架设apache服务器三 (Linux第27课
+http://vip.hackbase.com/vipsoft/vipteacher/20050219inux27.rar
+第七十六课 linux下架设apache服务器四 (Linux第28课)
+http://vip.hackbase.com/vipsoft/vipteacher/20050226inux28.rar
+第七十七课 linux下简单的网络安全配置 (Linux第29课)
+http://vip.hackbase.com/vipsoft/vipteacher/20050305linux29.rar
+第七十八课 linux下Iptables简单使用 (Linux第30课)
+http://vip.hackbase.com/vipsoft/vipteacher/20050306linux30.rar
+第七十九课 linux下程序编译:gcc编译器的简单知识 (Linux第31课)
+http://vip.hackbase.com/vipsoft/vipteacher/20050312linux31.rar
+第 八十 课 linux的核心文件kernel与总结 (Linux第32课)
+http://vip.hackbase.com/vipsoft/vipteacher/20050319linux32.rar
+第八十一课 怎么利用webshell来安装radmin后门
+http://vip.hackbase.com/vipsoft/vipteacher/20050326webshell.rar
+第八十二课 教你如何制作图片式隐藏木马（利用欺骗方法入侵）
+http://vip.hackbase.com/vipsoft/vipteacher/20050402ycmm.rar
+第八十三课 入侵时如何用图形控制弱口命令机器
+http://vip.hackbase.com/vipsoft/vipteacher/20050403txkz.rar
+第八十四课 漏洞利用之非弱口令诱骗用户执行预设命令提升权限篇
+http://vip.hackbase.com/vipsoft/vipteacher/20050409ipcr.rar
+第八十五课 黑客必备网络命令net命令实战讲解
+http://vip.hackbase.com/vipsoft/vipteacher/20050416netcmd.rar
+第八十六课 众多功能于一身-黑客工具阿D网络工具包
+http://vip.hackbase.com/vipsoft/vipteacher/20050422adi.rar
+第八十七课 黑客惯用传输文件利器TFTPD,FlashFXP和FTP讲解
+http://vip.hackbase.com/vipsoft/vipteacher/20050423fileftp.rar
+第八十八课 入侵:轻轻松松盗取别人ADSL上网帐号
+http://vip.hackbase.com/vipsoft/vipteacher/20050430adsl.rar
+第八十九课 发邮件自己说了算－配置匿名发送邮件教程
+http://vip.hackbase.com/vipsoft/vipteacher/20050507mail.rar
+第九十课 简单网络基础教程
+http://vip.hackbase.com/vipsoft/vipteacher/20050514net1.rar
+第九十一课 简单汇编教程1
+http://vip.hackbase.com/vipsoft/vipteacher/20050514asm1.rar
+第九十二课 简单汇编教程2
+http://vip.hackbase.com/vipsoft/vipteacher/20050514asm2.rar
+第九十三课 简单汇编教程3
+http://vip.hackbase.com/vipsoft/vipteacher/20050515asm3.rar
+第九十四课 简单汇编教程4
+http://vip.hackbase.com/vipsoft/vipteacher/20050515asm4.rar
+第九十五课 IPC漏洞利用之DOS命令篇
+http://vip.hackbase.com/vipsoft/vipteacher/20050521ipc2.rar
+第九十六课 网页木马全攻略(上)
+http://vip.hackbase.com/vipsoft/vipteacher/20050521web1.rar
+第九十七课 网页木马全攻略(下)
+http://vip.hackbase.com/vipsoft/vipteacher/20050522web2.rar
+第九十八课 简单汇编教程5
+http://vip.hackbase.com/vipsoft/vipteacher/20050522asm5.rar
+第九十九课 简单汇编教程6
+http://vip.hackbase.com/vipsoft/vipteacher/20050522asm6.rar
+第一百课 用flashget下载会员教程
+http://vip.hackbase.com/vipsoft/vipteacher/20050525get.rar
+第一百零一课 网络三大黑客扫描工具讲解
+http://vip.hackbase.com/vipsoft/vipteacher/gongjv101.rar
+第一百零二课 新手入门-Windodws系统大观全面讲解
+http://vip.hackbase.com/vipsoft/vipteacher/2005529windows.rar
+第一百零三课 Vmware安装汉化及详细使用
+http://vip.hackbase.com/vipsoft/vipteacher/vmwaresetup.rar
+第一百零四课 简单汇编教程7
+http://vip.hackbase.com/vipsoft/vipteacher/20050605asm7.rar
+
+黑基VIP视频教程全集收藏
+
+1.大型教程下载，请注意避开下载高峰时再下载！
+2.请使用迅雷等工具才能下载，有部份视频只能这个工具下载的哟！
+3. 下载后请注意使用相应浏览工具阅读或播放器播放 
+
+http://221.7.172.190:808/downfile/黑客经典/hackbase/1 配置安全的个人计算机.zip　　→　　1 配置安全的个人计算机
+
+http://221.7.172.190:808/downfile/黑客经典/hackbase/2 SQL注入技术实例讲解.zip　　→　　2 SQL注入技术实例讲解
+
+网络高峰期间，一定要工具下载，
+
+http://221.7.172.190:808/downfile/黑客经典/hackbase/3 手工清除QQ连发消息病毒.zip　　→　　3 手工清除QQ连发消息病毒
+http://221.7.172.190:808/downfile/黑客经典/hackbase/4 配置最流行的WEB服务器.zip　　→　　4 配置最流行的WEB服务器
+http://221.7.172.190:808/downfile/黑客经典/hackbase/5 组建DNS和DHCP服务器.zip　　→　　5 组建DNS和DHCP服务器
+http://221.7.172.190:808/downfile/黑客经典/hackbase/6 模拟黑客攻击和安全防护.zip　　→　　6 模拟黑客攻击和安全防护
+
+迅雷等工具才能下载
+
+http://221.7.172.190:808/downfile/黑客经典/hackbase/7 个人计算机安全终极配置.zip　　→　　7 个人计算机安全终极配置
+http://221.7.172.190:808/downfile/黑客经典/hackbase/8 如何查杀木马 .zip　　→　　8 如何查杀木马
+http://221.7.172.190:808/downfile/黑客经典/hackbase/9 如何查杀木马利用工具 .zip　　→　　9 如何查杀木马利用工具
+http://221.7.172.190:808/downfile/黑客经典/hackbase/10 入侵前的准备和防范方法.zip　　→　　10 入侵前的准备 防范方法
+http://221.7.172.190:808/downfile/黑客经典/hackbase/11 网络地址转换.zip　　→　　11 网络地址转换
+http://221.7.172.190:808/downfile/黑客经典/hackbase/12 组建虚拟网络VPN.zip　　→　　12 组建虚拟网络VPN
+http://221.7.172.190:808/downfile/黑客经典/hackbase/13 漏洞利用漏洞(一).zip　　→　　13 漏洞利用漏洞.
+http://221.7.172.190:808/downfile/黑客经典/hackbase/14 配置黑客工具.zip　　→　　14 配置黑客工具
+http://221.7.172.190:808/downfile/黑客经典/hackbase/15 MsSql Server安装和配置.zip　　→　　15 MsSql Server安装和配置
+http://221.7.172.190:808/downfile/黑客经典/hackbase/16 Win2000入门到精通 (一).zip　　→　　16 Win2000入门到精通 (一)
+http://221.7.172.190:808/downfile/黑客经典/hackbase/17 Win2000入门到精通 (二).zip　　→　　17 Win2000入门到精通 (二)
+http://221.7.172.190:808/downfile/黑客经典/hackbase/18 Windows 2000高级操作.zip　　→　　18 Windows 2000高级操作
+http://221.7.172.190:808/downfile/黑客经典/hackbase/19 Win2000的灵魂(一).zip　　→　　19 Win2000的灵魂(一)
+http://221.7.172.190:808/downfile/黑客经典/hackbase/20 Win2000的灵魂(二).zip　　→　　20 Win2000的灵魂(二)
+
+黑基外挂破解教程全26课
+
+建议用迅雷下!
+
+http://vip.hackbase.com/vipsoft/freesoft/crack1.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20040917crack2.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20040920crack3.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20040922crack4.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20040924crack5.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20040927crack6.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20040929crack7.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041013crack8.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041015crack9.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041018crack10.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041022crack12.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041025crack13.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041027crack14.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041029crack15.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041101crack16.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041103crack17.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041105crack18.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041107crack19.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041109crack20.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041111crack21.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041115crack22.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041117crack23.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041119crack24.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041122crack25.zip
+
+http://vip.hackbase.com/vipsoft/txcrack/20041124crack26.zip
+
+【黑防9个VIP脱壳+黑软11个脱壳全集+花花5个语音脱壳教程】
+
+黑防VIP系列脱壳动画
+
+黑防VIP系列脱壳动画第一课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke1.rar
+
+黑防VIP系列脱壳动画第二课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke2.rar
+
+黑防VIP系列脱壳动画第三课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke3.rar
+
+黑防VIP系列脱壳动画第四课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke4.rar
+
+黑防VIP系列脱壳动画第五课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke5.rar
+
+黑防VIP系列脱壳动画第六课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke6.rar
+
+黑防VIP系列脱壳动画第七课 4月5日新增
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke7.rar
+
+防VIP系列脱壳动画第八课 4月6日新增
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke8.rar
+
+防VIP系列脱壳动画第九课 4月7日新增
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke9.rar
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+黑软基地脱壳全集（共11集）
+
+第一课：http://qzone2006.vip1.4888.net/脱壳全集/unB-pack01.rar
+第二课：http://qzone2006.vip1.4888.net/脱壳全集/unB-pack02.rar
+第三课：http://qzone2006.vip1.4888.net/脱壳全集/unB-pack03.rar
+第四课：http://qzone2006.vip1.4888.net/脱壳全集/unB-pack04.rar
+第五课：http://qzone2006.vip1.4888.net/脱壳全集/unB-pack05.rar
+第六课：http://qzone2006.vip1.4888.net/脱壳全集/unB-pack06.rar
+第七课：http://qzone2006.vip1.4888.net/脱壳全集/unB-pack07.rar
+第八课：http://qzone2006.vip1.4888.net/脱壳全集/unB-pack08.rar
+第九课：http://qzone2006.vip1.4888.net/脱壳全集/unB-pack09.rar
+第十课：http://qzone2006.vip1.4888.net/脱壳全集/unB-pack10.rar
+第十一课：http://qzone2006.vip1.4888.net/脱壳全集/unB-pack11.rar
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+花花之脱壳系列动画
+
+http://j.thec.cn/xwda/花花之脱壳系列动画1.rar
+http://j.thec.cn/xwda/花花之脱壳系列动画2.rar
+http://j.thec.cn/xwda/花花之脱壳系列动画3.rar
+http://j.thec.cn/xwda/花花之脱壳系列动画4.rar
+http://j.thec.cn/xwda/花花之脱壳系列动画5.rar
+
+黑客动画吧免杀教程
+
+http://mumin.vxv.cn/hkpc1.rar
+。
+。
+。
+http://mumin.vxv.cn/hkpc20.rar
+中间自己加吧 最好用迅雷下吧 ..为了安全请自行查杀一次
+
+华夏会员区asp.net入侵全过程(1-3全)
+http://77169.4lzx.com/20060122/asp.net1.swf
+http://77169.4lzx.com/20060220/asp.net2.swf
+http://77169.4lzx.com/20060226/asp.net3.swf
+
+黑客基地vip会员区培训内容Windows (300MB) 
+
+下载地址:ftp://yule:< wind_code_1 >黑客基地vip会员区培训内容Windows%20by%20haiwanxue.rar
+
+默认解压密码是:www.vodzy.com
+黑基DELPHI教程另外的一个下载地址!修复完毕提供下载
+第二十五节课 数据库的开放讲座1 
+ftp://fmoshoujiajia1@57333.com/25.rar
+
+第二十四节课 配置ODBC数据源 
+ftp://fmoshoujiajia1@57333.com/24.rar
+
+第二十三节课 Delphi鼠标事件操作 
+ftp://fmoshoujiajia1@57333.com/23.rar
+
+第二十二节课 Delphi两种方式链接或嵌入OLE对象 
+ftp://fmoshoujiajia1@57333.com/22.rar
+
+第二十一节课 Delphi编写图形图象的设计 
+ftp://fmoshoujiajia1@57333.com/21.rar
+
+第二十节课 Delphi编写全功能媒体播放器设计03 
+ftp://fmoshoujiajia1@57333.com/20.rar
+
+第十九节课 Delphi编写全功能媒体播放器设计02 
+ftp://fmoshoujiajia1@57333.com/19.rar
+
+第十八节课 Delphi编写全功能媒体播放器设计01 
+ftp://f5icrack1@57333.com/18.rar
+
+第十七节课 获取当前鼠标坐标的实例 
+ftp://f5icrack1@57333.com/17.rar
+第十六节课 资源管理器与进度条的制作 
+ftp://f5icrack1@57333.com/16.rar
+
+第十五节课 不用代码实现异形窗口+透明窗口的制作
+ftp://f5icrack1@57333.com/15.rar
+
+第十四节课 滚动条组件的详细讲解 
+ftp://f5icrack1@57333.com/14.rar
+
+第十三节课 计时器组件的应用详解 
+ftp://f5icrack1@57333.com/13.rar
+
+第十二节课 realplay播放器的制作 
+ftp://f5icrack1@57333.com/12.rar
+
+第十一节课 零基础打造属于自己的播放器 
+ftp://f5icrack1@57333.com/11.rar
+
+第十节课 Delphi编成基础练习题 
+ftp://f5icrack1@57333.com/10.rar
+
+第九节课 Delphi程序设计基础-条件语句 
+ftp://f5icrack1@57333.com/09.rar
+
+第八节课 Delphi数据类型与循环语句 
+ftp://f5icrack1@57333.com/08.rar
+第七节课 Delphi程序设计基础-常用函数详解 
+ftp://f5icra请选择类别
+
+第六节课 Delphi常用组件属性(3)与对话框(消息框)函数与框… 
+ftp://f5icrack1@57333.com/06.rar
+
+第五节课 Delphi常用组件的属性(2)基础知识 
+ftp://f5icrack1@57333.com/05.rar
+
+第四节课 Delphi常用组件属性详讲(1)基础知识 
+ftp://f5icrack1@57333.com/04.rar
+
+第三 动手开发windo
+ftp://f5icrack1@57333.com/03.rar
+
+第二节课 自己动手开发windows记事本 
+ftp://f5icrack1@57333.com/02.rar
+
+第一节课 基础开始编程-模仿制作泡泡堂刷点券外挂(免费下载) 
+http://vip.hackbase.net/txsoft/txdelphi/delphi1.zip ;
+俄罗斯黑客的120多个脚本入侵动画
+下载地址：http://www.hack520.net/soft/hack/ru&hack.rar
+
+密码是hack520!@#
+
+华夏会员区的大合集教程上
+DB_owner下的权限提升
+
+http://77169.4lzx.com/20050619/webshell.swf
+
+利用Alexa查询排名高的站点入侵
+http://77169.4lzx.com/20050515/jiaoben8.swf
+
+超级后门--黑客守卫者的配置和使用方法
+http://77169.4lzx.com/20050410/hxdef100.swf
+
+脚本木马提升权限系列一
+http://77169.4lzx.com/20050123/2005jiao-5-2.swf
+
+网络安全课程－－Review
+http://77169.4lzx.com/20050413/b9-1.swf
+
+主题:常用工具的介绍---木马的查杀
+http://77169.4lzx.com/20050102/muma/muma.swf
+
+Mssql server 安全配置
+http://77169.4lzx.com/20041201/wlaq4-25-2.rm
+
+脚本安全基础
+http://77169.4lzx.com/20041124/wlaq4-25-1.rm
+
+华夏会员区MSSQL注入及工具的使用
+http://77169.4lzx.com/20050422/jiaoben4.swf ;
+
+黑基VIP(G宝盘提供下载)
+http://hackkingdom.gbaopan.com/ 
+
+黑客编程实例讲解《非安全杂志》
+
+黑客编程实例讲解《非安全杂志》好东东。学编程很有用！
+http://download.army6.cn/jinghua/nohack3.rar 
+
+华夏vip脚本动画1-18(G宝盘)
+
+华夏vip脚本动画1-18
+http://ding555.gbaopan.com/ 
+
+黑防 VIP 动画下载了！！ 
+
+http://vipsoft.hacker.com.cn/Soft/vip/1.avi Linux系列录象1
+
+http://vipsoft.hacker.com.cn/Soft/vip/2.avi Linux系列录象2 
+
+http://vipsoft.hacker.com.cn/Soft/vip/3.avi Linux系列录象3
+
+http://vipsoft.hacker.com.cn/Soft/vip/4.avi Linux系列录象4
+
+http://vipsoft.hacker.com.cn/Soft/vip/5.avi Linux系列录象5 
+
+http://vipsoft.hacker.com.cn/Soft/vip/6.avi Linux系列录象6 
+
+http://vipsoft.hacker.com.cn/Soft/vip/7.avi Linux系列录象7
+
+http://vipsoft.hacker.com.cn/Soft/vip/8.avi Linux系列录象8 
+
+http://vipsoft.hacker.com.cn/Soft/vip/9.avi Linux系列录象9 
+
+http://vipsoft.hacker.com.cn/Soft/vip/10.avi Linux系列录象10
+
+华夏会员综合工具介绍（新手入门工具）
+
+第一课
+
+http://77169.4lzx.com/box1/box1.swf 
+
+第二课 
+
+http://77169.4lzx.com/jia2/jia2.swf 
+
+第三课 
+
+http://77169.4lzx.com/jia3/jia3.swf 
+
+第四课 
+
+http://77169.4lzx.com/jia4/jia4.swf 
+
+黑防VIP系列脱壳动画黑防VIP系列脱壳动画第一课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke1.rar
+
+黑防VIP系列脱壳动画第二课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke2.rar
+
+黑防VIP系列脱壳动画第三课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke3.rar
+
+黑防VIP系列脱壳动画第四课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke4.rar
+
+黑防VIP系列脱壳动画第五课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke5.rar
+
+黑防VIP系列脱壳动画第六课
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke6.rar
+
+黑防VIP系列脱壳动画第七课 4月5日新增
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke7.rar
+
+VIP教程一批内部提供的下载
+
+VIP教程一批内部提供的下载
+
+黑客实战教程 大集合 适用各个阶段的小黑们(512MB)
+
+黑客实战教程 大集合
+适用各个阶段的小黑们
+几乎网上能见到的 黑教程 这里边都有了 一个字 全！！！
+
+下载地址：ftp://yule:< wind_code_3 >黑客实战教程%20大集合%20by%20华夏大便.rar
+
+第八军黑客入侵基础教程 (SWF格式 大小27.4M)
+
+第八军黑客入侵基础教程 BY popman(SWF格式 大小27.4M)
+
+解压密码 vodzyvodzy
+
+下载地址:ftp://guibin:< wind_code_4 >第八军黑客入侵基础教程%20BY%20popman.rar
+
+很不错的黑客基础教程
+
+黑鹰VB,黑基破解,黑鹰 ASP,华夏脚本,华夏破解黑鹰VB编程教程
+
+http://kyosheng2.gbaopan.com/
+
+黑客基地破解教程
+
+http://kyosheng1.gbaopan.com/
+
+工具教程1
+
+http://hacker21.gbaopan.com/
+
+工具教程2
+
+http://hackzhz.gbaopan.com/
+
+黑鹰基地 ASP
+
+http://kanunuasp.gbaopan.com/
+
+工具教程3
+
+http://yingzi66.gbaopan.com/
+
+华夏脚本-黑鹰ASP-黑鹰VB
+
+http://hacklu.gbaopan.com/
+
+华夏破解
+
+http://huang0223.gbaopan.com/
+
+工具教程4
+
+http://11919.gbaopan.com/
+
+工具教程5
+
+http://hack8.gbaopan.com/
+
+动画吧免杀-部分
+
+http://abcd87.gbaopan.com/
+
+工具教程6
+
+http://lzcq.gbaopan.com/
+
+工具教程7
+
+http://goodboy.gbaopan.com/
+
+黑鹰基地免杀教程
+
+http://xiancc6.gbaopan.com/
+
+教程8
+
+http://hacklu1.gbaopan.com/
+
+综合教程
+
+http://weiweii.gbaopan.com/
+
+教程工具9
+
+http://bizspy.gbaopan.com/
+
+转自veek's blog博客http://veek.hacker911.net 由veek收集整理！
+
+华夏网络安全基础班短期培训两张光盘下载
+
+华夏网络安全基础班短期培训两张光盘下载
+
+第一张光盘下载:
+
+ftp://ftp.77169.net/soft/pan/黑客兵器库1.iso
+
+第二张光盘下载:
+
+ftp://ftp.77169.net/soft/pan/黑客兵器库2.iso 
+
+国鹰派联盟真正的黑客站做的东东
+第一期：
+http://radio.neteasy.cn/rmdemo/2005/ceus20050127.rm
+第二期：
+http://radio.neteasy.cn/rmdemo/2005/ceus20050202.rm
+第三期：
+http://radio.neteasy.cn/rmdemo/2005/ceus20050317.rm
+第四期：
+http://radio.neteasy.cn/rmdemo/2005/ceus20050331.rm
+第五期：
+http://radio.neteasy.cn/rmdemo/2005/ceus20050512.rm
+第六期：
+http://radio.neteasy.cn/rmdemo/2005/ceus20051106.rm
+第七期：
+由于中途断电，所以只有从技术部分开始的录音，请大家见谅。
+http://radio.neteasy.cn/rmdemo/2005/ceus20051120.rm
+第八期：
+http://radio.neteasy.cn/rmdemo/2005/ceus20051204.rm
+第九期：
+http://radio.neteasy.cn/rmdemo/2005/ceus20051218.rm
+第十期：
+http://radio.neteasy.cn/rmdemo/2005/ceus20060101.rm 
+
+黑鹰基地短期培训班Dreamweaver教学 http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... 0%E0Dreamweaver%BD%CC%D1%A7/1.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... 0%E0Dreamweaver%BD%CC%D1%A7/2.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... 0%E0Dreamweaver%BD%CC%D1%A7/3.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... 0%E0Dreamweaver%BD%CC%D1%A7/4.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... 0%E0Dreamweaver%BD%CC%D1%A7/5.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... 0%E0Dreamweaver%BD%CC%D1%A7/6.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... 0%E0Dreamweaver%BD%CC%D1%A7/7.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... 0%E0Dreamweaver%BD%CC%D1%A7/8.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... 0%E0Dreamweaver%BD%CC%D1%A7/9.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... %E0Dreamweaver%BD%CC%D1%A7/10.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... %E0Dreamweaver%BD%CC%D1%A7/11.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... %E0Dreamweaver%BD%CC%D1%A7/12.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... %E0Dreamweaver%BD%CC%D1%A7/13.rar
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... %E0Dreamweaver%BD%CC%D1%A7/14.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... %E0Dreamweaver%BD%CC%D1%A7/15.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... %E0Dreamweaver%BD%CC%D1%A7/16.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... %E0Dreamweaver%BD%CC%D1%A7/17.rar
+
+http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9%B ... %E0Dreamweaver%BD%CC%D1%A7/18.rar
+
+第一课:Dreamweaver MX简介
+
+第二课:文字和图像应用
+
+第三课:表格的应用 
+
+第四课:层的应用
+
+第五课:超连接的创建和应用
+
+第六课:框架的属性和应用
+
+第七课:创建导航条和媒体插入
+
+第八课:各种表单的创建和应用
+
+第九课:表格的高级应用
+
+第十课:模板和库的应用.
+
+第十一课:DW MX 2004行为(上)
+
+第十二课:DW MX 2004行为(下)
+
+第十三课:图形文字的应用和图形化网页的制作
+
+第十四课:行为的检查属性
+
+第十五课:CSS样式表的制作与使用(上)
+
+第十六课:第16节:CSS样式表的制作与使用(下)
+
+第十七课:编辑和管理站点
+
+第十八课:在网页中使用特效
+
+黑鹰ASP特讯教程!http://www.homesen.net:8080/CNHUVIP/%BA%DA%D3%A5%BB%F9 ... B0%E0asp%BD%CC%D1%A7/lesson1.rar
+自己加了~~
+
+用户：CNHUVIP
+
+密码：suibian
+
+2006 - 4 27新加动画
+JHACKJ网站数据获取和数据库下载及配置完全教程http://cqhk.14023.com/down/JHACKJdatadownconfig.rar
+
+JHACKJ打造动网7.0sp2超级后门http://cqhk.14023.com/down/vip/jhackjcqhkdvbbs70sp2.rar 
+
+JHACKJ网站入侵检测和数据恢复语音教程-经典回顾http://cqhk.14023.com/down/wzrqjchsjhf.rar 
+
+JAHCKJ最新教程(JHACKJ综合入侵演练)吐血推荐http://www.starsea.net.cn/down/zhrq1.rar
+
+JHACKJ专用黑客工具箱http://www.starsea.net.cn/down/tools.rar
+
+JHACK经典入侵与修补语教程11月20日制作http://cqhk.14023.com/down/rqxb.rar
+
+JHACKJ制作的FTP详细使用语音教程12月10号制作http://cqhk.14023.com/down/sftp.rar
+
+JHACKJ入侵服务器FTP提升权限完全版http://cqhk.14023.com/down/jhackjforftp.rar
+
+JHACKJ上传下载整站语音教程(最新)http://cqhk.14023.com/down/scxz.rar
+
+代理跳板制作动画教程http://cqhk.14023.com/down/vip/%B4%FA%C0%ED%CC ... B6%AF%BB%AD%BD%CC%B3%CC.rar
+
+不依赖xp_cmdshell入侵服务器http://cqhk.14023.com/down/sa.rar
+
+配置自己的动态WEB服务器http://cqhk.14023.com/down/dtwebsevrjc.rar
+
+jhackj打造超级无敌网页木马http://cqhk.14023.com/down/jhackjsupermm.rar
+
+JHACKJ终结UPFILE语音教程+扫描工具12月9号制作http://cqhk.14023.com/down/rqup.rar
+
+《jhackj简明sqlserver安装配置调试教程》
+http://cqhk.14023.com/down/jhackjsqlserverjiaochenok.rar
+
+JHACKJ入侵医院服务器语音教程》(VIP展示教程)12月20制作
+http://cqhk.14023.com/down/wzfzr.rar
+
+《JHACKJ入侵医院服务器语音教程》(VIP展示教程)12月20制作
+http://cqhk.14023.com/down/rqyy.rar
+
+JHACKJ肉鸡跳板制作语音教程(祝大家元旦快乐)
+http://cqhk.14023.com/down/tbzz007.rar
+
+JHACKJ网站入侵检测和数据恢复语音教程-经典回顾
+http://cqhk.14023.com/down/wzrqjchsjhf.rar
+
+**************************************************************
+
+华夏黑客联盟所有会员书籍下载
+http://download.77169.net/soft/books/study/shu1.zip
+http://download.77169.net/soft/books/study/shu1.zip
+http://download.77169.net/soft/books/study/shu2.zip
+http://download.77169.net/soft/books/stud
+................................................................(中间的好多喔.只能自己加啦.!)
+http://download.77169.net/soft/books/study/shu114.zip
+http://download.77169.net/soft/books/study/shu114.zip
+http://download.77169.net/soft/books/study/shu115.zip
+http://download.77169.net/soft/books/study/shu115.zip
+......................................................................(可能后面陆续还有.自己加.!)
+
+PHP视频教程从入门到精通 超级经典 (大小15G)
+
+PHP 初階課程
+
+PHP 進階課程　
+
+PHP講師教學研討會
+
+PHP+MySQL 講師研習班
+
+全面讲解 绝对精华!
+
+谁下
+ftp://yule:< wind_code_5 >
+
+黑防日常的VIP下载!请使用下载工具下载 
+
+动网下载中心再次上传 2006-3-10 
+http://vipsoft1.hacker.com.cn/vip1 ... ;60310/dwxz.rar 
+
+逍遥仙境ver2005漏洞演示2006-3-10 
+http://vipsoft1.hacker.com.cn/vip1-d ... ;310/xiaoyao.rar 
+
+通过WSCRIPT.NETWORK 对象提升权限2006-3-10 
+http://vipsoft1.hacker.com.cn/vip1 ... ;60310/wntq.rar 
+
+这样突破免费静态空间ASP权限 2006-3-10 
+http://vipsoft1.hacker.com.cn/vip1& ... 60310/tpasp.rar 
+
+天虎相册漏洞 2006-3-10 
+http://vipsoft1.hacker.com.cn/vip1 ... ;60310/thxc.rar 
+
+无工具入侵之动网论坛修改密码篇2006-3-9 
+http://vipsoft1.hacker.com.cn/vip1& ... 60309/wgjxg.rar 
+
+对于论坛入侵的几种方法 2006-3-9 
+http://vipsoft1.hacker.com.cn/vip1 ... ;60309/ltrq.rar 
+
+phpbb downloads漏洞演示+工具 2006-3-10 
+http://vipsoft1.hacker.com.cn/vip1& ... 60310/phpbb.rar 
+
+巧改COOKIE注入OBLOG 2.52 2006-3-8 
+http://vipsoft1.hacker.com.cn/vip1-dow ... /cookie.rar 
+
+入侵网站连环计（语音）2006-3-8 
+http://vipsoft1.hacker.com.cn/vip1 ... ;60308/rqsl.rar 
+
+菜鸟入侵博客空间 2006-3-8 
+http://vipsoft1.hacker.com.cn/vip1-& ... 0308/cnrqbk.rar 
+
+横行网吧又一招(强行和MM视频)2006-3-3 
+http://vipsoft1.hacker.com.cn/vip1 ... ;60303/hxwb.rar 
+
+从入侵网站后台管理系统登陆到制作网页木马 2006-3-3 
+http://vipsoft1.hacker.com.cn/vip1 ... ;60303/rqwm.rar 
+
+入侵排行第一的网游E城到拿系统权限 2006-3-3 
+http://vipsoft1.hacker.com.cn/vip1 ... ;60303/rqew.rar 
+
+入侵秋叶商城官方站 2006-3-3 
+http://vipsoft1.hacker.com.cn/vip1 ... ;60303/rqqy.rar 
+
+检测东营信息港利用BBS5.15SQL版漏洞入侵 2006-3-3 
+http://vipsoft1.hacker.com.cn/vip1 ... ;60303/jxdy.rar 
+
+动网7.1备份获得webshell 2006-3-2 
+http://vipsoft1.hacker.com.cn/vip1-d ... 02/dvbbs71bf.rar 
+
+得到shell后用代码来取用户名和密码 2006-3-2 
+http://vipsoft1.hacker.com.cn/vip& ... 0060302/ls.rar 
+
+友情检测第八军团 2006-3-2 
+http://vipsoft1.hacker.com.cn/vip1& ... 60302/dibajuntuan.rar
+
+华夏VIP绝招保住肉鸡--隐藏木马
+http://huaxia.< wind_code_6 >
+
+华夏VIP-E语言课程第四节
+http://huaxia.< wind_code_7 >
+
+华夏VIP- 计数器程序漏洞利用
+http://huaxia.< wind_code_8 > 计数器程序漏洞利用
+
+黑鹰VIP VB教程!http://www.homesen.net:8080/CNHUVI& ... vb%BD%CC%B3%CC/01.rar
+
+黑鹰VB后面自己加了~
+
+华夏免杀班教程(226M)
+http://www.homesen.net:8080/CNHUVIP/%BB%AA%CF%C4%C3%E2%C9%B1.rar
+
+华夏VIP教程-E语言课程第五节
+http://huaxia.< wind_code_9 >
+
+MS05039远程执行代码和特权提
+http://huaxia.< wind_code_10 > 
+
+华夏VIP教程-渗透硬件防火墙之概念篇
+http://huaxia.< wind_code_11 > 渗透硬件防火墙之概念篇
+
+黑防VIP系列脱壳动画第一课 
+
+http://vipsoft1.hacker.com.cn/vip1 ... ;oke/tuoke1.rar 
+
+黑防VIP系列脱壳动画第二课 
+
+http://vipsoft1.hacker.com.cn/vip1 ... ;oke/tuoke2.rar 
+
+黑防VIP系列脱壳动画第三课 
+
+http://vipsoft1.hacker.com.cn/vip1 ... ;oke/tuoke3.rar 
+
+黑防VIP系列脱壳动画第四课 
+
+http://vipsoft1.hacker.com.cn/vip1 ... ;oke/tuoke4.rar 
+
+黑防VIP系列脱壳动画第五课 
+
+http://vipsoft1.hacker.com.cn/vip1 ... ;oke/tuoke5.rar 
+
+黑防VIP系列脱壳动画第六课 
+
+http://vipsoft1.hacker.com.cn/vip1 ... ;oke/tuoke6.rar 
+
+黑防VIP系列脱壳动画第七课 4月5日新增 
+
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke7.rar
+
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke8.rar
+
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke9.rar
+
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke10.rar
+
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke11.rar
+
+http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tuoke/tuoke12.rar
+
+可以使用关键词搜索国内知名黑客站点的动画教程！
+http://fs32.139.com/0/312/huniao/share/2005116165233364.rar
+
+http://down.stuhack.com/免杀教程第一课.rar
+
+http://down.stuhack.com/免杀教程第二课.rar
+
+http://down.stuhack.com/免杀教程第三课.rar
+
+http://down.stuhack.com/免杀教程第四课.rar
+
+http://down.stuhack.com/免杀教程第五课.rar
+
+http://down.stuhack.com/免杀教程第六课.rar
+
+看雪论坛精华7
+http://bbs.pediy.com/bbs/crack7.rar
+
+《经典的50款黑客入侵动画教程》
+http://down.sun-lion.com/hack/teach/hack50.rar
+
+网安联盟会员教程
+下载地址:http://cqhk.14023.com/down/JHACKJdoorvip.rar
+
+脱壳破解动画教程
+入门篇
+http://www.crackmore.com/Dogma/unpackA-01.rar
+
+http://www.crackmore.com/Dogma/unpackA-02.rar
+
+http://www.crackmore.com/Dogma/unpackA-03.rar
+
+http://www.crackmore.com/Dogma/unpackA-04.rar
+
+http://www.crackmore.com/Dogma/unpackA-05.rar
+
+http://www.crackmore.com/Dogma/unpackA-06.rar
+
+http://www.crackmore.com/Dogma/unpackA-07.rar
+
+http://www.crackmore.com/Dogma/unpackA-08.rar
+
+http://www.crackmore.com/Dogma/unpackA-09.rar
+进阶篇
+http://www.crackmore.com/Dogma/unpackB-01.rar
+
+http://www.crackmore.com/Dogma/unpackB-02.rar
+
+http://www.crackmore.com/Dogma/unpackB-03.rar
+
+http://www.crackmore.com/Dogma/unpackB-04.rar
+
+http://www.crackmore.com/Dogma/unpackB-05.rar
+
+http://www.crackmore.com/Dogma/unpackB-06.rar
+
+http://www.crackmore.com/Dogma/unpackB-07.rar
+
+解压密码是
+
+www.crackmore.com
+
+想当不错的入侵基础教程，全语音，具体，详细
+
+http://cqhk.14023.com/Soft/hkdh/bzyc/Index.html 
+
+菜鸟必学系列视频教程11.14整理 强烈推荐
+1.http://cimg.163.com/tech/netSchool/juyi/windows/messenger.swf关闭烦人的信使服务
+
+2. http://cimg.163.com/tech/netSchool/juyi/windows/3721-1.swf保护IE的工具集--雅虎助手
+
+3. http://cimg.163.com/tech/netSchool/juyi/windows/3721-2.swf保护IE的工具集--雅虎助手 
+
+4. http://cimg.163.com/tech/netSchool/juyi/windows/qq.swfQQ视频设置 
+
+5. http://cimg.163.com/tech/netSchool/juyi/windows/mic.swf耳麦设置 
+
+6. http://cimg.163.com/tech/netSchool/juyi/windows/ie-1.swfIE浏览器-保存网页 
+
+7. http://cimg.163.com/tech/netSchool/juyi/windows/ie-2.swfIE浏览器-收藏夹的使用1 
+
+8. http://cimg.163.com/tech/netSchool/juyi/windows/ie-3.swfIE浏览器-收藏夹的使用2 
+
+9. http://cimg.163.com/tech/netSchool/juyi/windows/ie-4.swfIE浏览器-整理收藏夹 
+
+10. http://cimg.163.com/tech/netSchool/juyi/windows/ie-5.swfIE浏览器-导出收藏夹 
+
+11. http://cimg.163.com/tech/netSchool/juyi/windows/ie-6.swfIE浏览器-导入收藏夹 
+
+12. http://cimg.163.com/tech/netSchool/juyi/windows/ie-7.swfIE浏览器-Internet选项 
+
+13. http://cimg.163.com/tech/netSchool/juyi/windows/ie-8.swfIE浏览器-代理服务器设置 
+
+14. http://cimg.163.com/tech/netSchool/juy ... XP_1.swfWindows xp安装全过程(1) 
+
+15. http://cimg.163.com/tech/netSchool/juy ... XP_2.swfWindows xp安装全过程(2) 
+
+16. http://cimg.163.com/tech/netSchool/juy ... XP_3.swfWindows xp安装全过程(3) 
+
+17. http://cimg.163.com/tech/netSchool/juy ... XP_4.swfWindows xp安装全过程(4) 
+
+18. http://cimg.163.com/tech/netSchool/juyi/windows/adsl.swfADSL拨号连接 
+
+19. http://cimg.163.com/tech/netSchool/juyi/windows/ip.swf局域网IP设置 
+
+20. http://cimg.163.com/tech/netSchool/juyi/windows/ghost-dos.swf系统备份GHOST-进入GHOST 
+
+21. http://cimg.163.com/tech/netSchool/juyi/windows/ghost-dk.swf系统备份GHOST-硬盘对克 
+
+22. http://cimg.163.com/tech/netSchool/juyi/windows/ghost-bf.swf系统备份GHOST-系统备份 
+
+23. http://cimg.163.com/tech/netSchool/juyi/windows/ghost-hf.swf系统备份GHOST-系统恢复 
+
+注册表篇 
+2006 - 4 27新加动画
+**************************************************************
+
+第1章 认识注册表 
+
+1.1 http://cimg.163.com/tech/netSchool/juyi/windows/11.swf什么是注册表
+
+1.2 http://cimg.163.com/tech/netSchool/juyi/windows/12.swf怎样访问注册表
+
+1.3 http://cimg.163.com/tech/netSchool/juyi/windows/13.swf注册表的界面
+
+1.4 http://cimg.163.com/tech/netSchool/juyi/windows/14.swf注册表的基本结构
+
+1.5 http://cimg.163.com/tech/netSchool/juyi/windows/15.swf注册表文件的结构
+
+安全软件/剑鹰1 ftp://free:free@218.93.192.213/安全软件/剑鹰1-4辑/CNSE_DISK_1.ISO
+
+安全软件/剑鹰2 ftp://free:free@218.93.192.213/安全软件/剑鹰1-4辑/Cnse_Disk_2.ISO
+
+安全软件/剑鹰3 ftp://free:free@218.93.192.213/安全软件/剑鹰1-4辑/Cnse_Disk_3.ISO
+
+安全软件/剑鹰4 ftp://free:free@218.93.192.213/安全软件/剑鹰1-4辑/Cnse_Disk_4.ISO

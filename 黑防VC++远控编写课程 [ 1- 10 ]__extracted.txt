@@ -1,0 +1,30 @@
+远程控制软件编程之界面设计
+下载地址1: http://www.rayfile.com/zh-cn/files/298c9200-3505-11de-90fd-0019d11a795f/
+下载地址2: http://www.namipan.com/d/d2ef93082a3c96c67d8470d7cef42310e588ee85e0d6be02
+远程控制软件编程之套接字操作
+下载地址1: http://www.rayfile.com/zh-cn/files/718c77a3-3505-11de-9bcf-0019d11a795f/  
+下载地址2: http://www.namipan.com/d/89a26f0dce0cd8eb86947664218f9e9cf7fdf7a07c01a102  
+远程控制软件编程之密码验证1
+下载地址1: http://www.rayfile.com/zh-cn/files/a2cb82e1-3505-11de-887c-0019d11a795f/
+下载地址2: http://www.namipan.com/d/d0212ad257faec466549cd70760007d2d9b9449aaf6ab901
+远程控制软件编程之密码验证2
+下载地址1: http://www.rayfile.com/zh-cn/files/dd180d23-3505-11de-89fd-0019d11a795f/
+下载地址2: http://www.namipan.com/d/86f91a4000f605178d69b76cc490040e6993e3e864a80c02 
+远程控制软件编程之密码验证3
+下载地址1: http://www.rayfile.com/zh-cn/files/2c4c6da3-3506-11de-bc7a-0019d11a795f/ 
+下载地址2: http://www.namipan.com/d/d26fd07a965fad99ecb61416f8e668837955b5380003b002  
+远程控制软件编程之密码验证4
+下载地址1: http://www.rayfile.com/zh-cn/files/4b8559e3-3506-11de-a1a8-0019d11a795f/
+下载地址2: http://www.namipan.com/d/00e5fe9d6dc4a4afd7db6311970e4c2006ed15aadbdb1401
+远程控制软件编程之磁盘显示1
+下载地址1: http://www.rayfile.com/zh-cn/files/914a4866-3506-11de-a3b9-0019d11a795f/
+下载地址2: http://www.namipan.com/d/4ee11a8cfd48860591ed3bdc0e6e2a9d36bb65fd9b397a02  
+远程控制软件编程之磁盘显示2
+下载地址1: http://www.rayfile.com/zh-cn/files/f121dfa6-3506-11de-a50d-0019d11a795f/
+下载地址2: http://www.namipan.com/d/a635a150ac3c6cc0364cd66876175d8c1c187ca377c88303 
+远程控制软件编程之文件显示1 
+下载地址1: http://www.rayfile.com/zh-cn/files/2f2c7eb3-3507-11de-9037-0019d11a795f/ 
+下载地址2: http://www.namipan.com/d/0ee85f8d05eb716b0eea5b83aeb3fae2b5131acdfa813c02
+远程控制软件编程之文件显示2
+下载地址1: http://www.rayfile.com/zh-cn/files/86975b2e-3507-11de-a042-0019d11a795f/  
+下载地址2: http://www.namipan.com/d/7091d353771910f1fee954e3669a7ab2163888edec882503

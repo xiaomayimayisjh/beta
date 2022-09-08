@@ -1,0 +1,331 @@
+置与管理系列9-适合web服务器的权限设置 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/2003quanxian.rar 
+[第122课]服务器安全配置与管理系列8-默认的目录权限 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/2003mrqx.rar 
+[第121课]服务器安全配置与管理系列7-创建和验证共享文件夹权限 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/2003gxqx.rar 
+[第120课]服务器安全配置与管理系列6-管理共享权限 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/2003glgx.rar 
+[第119课]服务器安全配置与管理系列5-克隆帐户 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/2003klzh.rar 
+[第118课]服务器安全配置与管理系列4-帐户删除工具和方法 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/2003zhanghu.rar 
+[第117课]服务器安全配置与管理系列3-组的创建和管理 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/2003zu.rar 
+[第116课]服务器安全配置与管理系列2-本地用户和组 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/20032zu.rar 
+[第115课]服务器安全配置与管理系列1-Windows Server 2003简介 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/2003-1.rar 
+[第114课]快速大量获得Webshell并去掉别人的后门 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/Webshellmen.rar 
+[第113课]网马免杀全过程 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/wmms.rar 
+[第112课]QQ空间挂马让你肉鸡成群 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/QQ.rar 
+[第111号]3秒钟免杀盗Q盗件 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/3q.rar 
+[第110课]对Radmin的详细讲解 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/Radmin.rar 
+[第109课]初探加密算法之RSA进阶篇 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/rsa37.rar 
+[第108课]浅谈标志位在爆破中的应用 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/bzw36.rar 
+[第107课]隐藏在三点式下载者身后的秘密 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/sdsxzz.rar 
+[第106课]仙剑脱壳动画 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/xjtkdh.rar 
+[第105课]堀北压缩 0.28 Unpack动画 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/jbysdh.rar 
+[第104课]对SOHU的再次安全测试 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/sohu6.rar 
+[第103课]反击盗号者邮箱 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/fddhzyx.rar 
+[第102课]入侵BBSXP 5.15版本+(ACCESS数据库) 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/rqbbsxp5.rar 
+[第101课]UBB的攻防 
+迅雷专用高速下载   http://www.ccert.cn/hacker.com.cn/ubb.rar 
+[第100课]架设PHP+MYSQL环境到搭建Discuz! 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/jxwamp.rar 
+[第99课]新云网站管理系统最新漏洞解析 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/xywz.rar 
+[第98课]给黑防灰鸽子做免杀 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/cf.rar 
+[第97课]入侵北大录像 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/rqbd.rar 
+[第96课]PCShare2006使用教程 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/pcss.rar 
+[第95课]入侵台湾大学 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/wwtw.rar 
+[第94课]全面破解心动文件夹 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/qmpjxd.rar 
+[第93课]反内存注册机一例 ----易经占筮 2005 破解分析 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/fnc.rar 
+[第92课] 隐藏变量的危害--2s_Blog 突现注入漏洞 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/2s.rar 
+[第91课]为任意的exe文件插入SplashScreen 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/exesp.rar 
+[第90课]对ASP木马免杀的研究 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/aspmmyj.rar 
+[第89课]PHP旁注+提权动画（二） 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/phpz2.rar 
+[第88课]PHP旁注+提权动画（一） 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/phpz1.rar 
+[第87课]渗透雷霆888flash系统 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/leiting.rar 
+[第86课]秒杀流光文章系统 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/1.rar 
+[第85课]打造绿色版的QQ记牌器 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/26.rar 
+[第84课]拿下服务器权限到另类留后门(2) 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/houmen3.rar 
+[第83课]拿下服务器权限到另类留后门(1) 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/houmenyi.rar 
+[第82课]asp.net的serv-u提权 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tiquan.rar 
+[第81课]孤狐浪子渗透入侵动画六 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/gugu6.rar 
+[第80课]孤狐浪子渗透入侵动画五 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/shen5.rar 
+[第79课]孤狐浪子渗透入侵动画四 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/guguru4.rar 
+[第78课]分离灰鸽子后门捆绑程序 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/fenli.rar 
+[第77课]q-zone鼠标本地用 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/qqzone.rar 
+[第76课]灰鸽子2006服务端免杀 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/hui2006.rar 
+[第75课]孤狐浪子渗透入侵动画二 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/shenru3.rar 
+[第74课]灰鸽子vip2006简单免杀 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/huigeizisha.rar 
+[第73课]孤狐浪子渗透入侵动画二 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/gugu2.rar 
+[第72课]孤狐浪子渗透入侵动画一 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/sehnru.rar 
+[第71课]入侵网站破serv-u密码拿上传空间 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/rukong.rar 
+[第70课]打造自己的ASP木马 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/ASPmm.rar 
+[第69]终极3389刷QB 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/3389QB.rar 
+[第67]轻轻松松找注册码 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/qingzhu.rar 
+[第66课]OD破解注册软件 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/ODpojie.rar 
+[第65课]局域网流量控制 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/juyu.rar 
+[第64课]批量入侵家用PC机 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/piripc.rar 
+[第63课]实例入侵国外虚拟主机 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/shiru.rar 
+[第62课]尘缘雅境图文系统上传漏洞 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/chengyuan.rar 
+[第61课]中铁跨站漏洞 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/zhongtie.rar 
+[第60课]菜鸟快速大批拿shell 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/nashell.rar 
+[第59课]IIS服务的安全设置 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/iisanquan.rar 
+[第58课]浅谈社会工程学入侵分析 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/shegong.rar 
+第57课]利用'or''=''or'拿shell 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/or1.rar 
+[第56课]桃源网盘Cookie欺骗漏洞 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/taocooking.rar 
+[第55课]PHPWind跨站、注入双重漏洞录像 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/phpwind.rar 
+[第54课]桃源网络硬盘漏洞的录像 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/1.rar 
+[第53课]有dbowner权限就有webshell 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/dboder.rar 
+[第52课]动感下载注入漏洞 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/donggan.rar 
+[第51课]黑防鸽子免杀江民的攻克 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/gezijiang.rar 
+[第50课]各种反弹木马内网上线 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/fanmu.rar 
+[第49课]网吧也玩LINUX 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/wangba.rar 
+[第48课]上兴远程控制3.3主程序免杀制作 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/shangxing.rar 
+[第47课]突破限制下载黑防在线教程 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tupo.rar 
+[第46课]smi格式的文件做免杀处理 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/smimian.rar 
+[第45课]注册表也减肥 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/jianfei.rar 
+[第44课]木马绝对免杀录象 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip-down/donghua/20060220/mumam.rar 
+[第43课]ＱＱ强行加别人为好友 
+http://vipsoft1.hacker.com.cn/vip- ... 20060219/aaqiang.rar 
+[第42课]注入清华同方 
+http://vipsoft1.hacker.com.cn/vip- ... 20060210/zhutong.rar 
+[第41课]鸽子cserver.dat免杀演示 
+http://vipsoft1.hacker.com.cn/vip- ... 20060209/cserver.rar 
+[第40课]制作ASP木马免杀（菜鸟版+语音） 
+http://vipsoft1.hacker.com.cn/vip ... /20060208/aspsha.rar 
+[第40课]利用QQ过天网防火墙 
+http://vipsoft1.hacker.com.cn/vip ... /20060121/tianqq.rar 
+[第39课]webremote使用 
+http://vipsoft1.hacker.com.cn/vip- ... 0060112/webremote.rar 
+[第38课]网吧破解动画 
+http://vipsoft1.hacker.com.cn/vip- ... 0060111/wangbapo.rar 
+[第37课]l-bolg利用 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/l-bolg.rar 
+[第36课]Windows最新漏洞WMF溢出演示 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/WMF.rar 
+[第34课]ping的使用 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/ping.rar 
+[第35课]手脱壳 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/whmw.rar 
+[第33课]菜鸟收费歌曲免费下载 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/killer.rar 
+[第32课]无法使用cmd的解决办法 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/cmd.rar 
+[第31课]自己制作IE搜索工具条 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/zhizuoie.rar 
+[第30课](新的)MSSQL扩展存储后门的使用 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/mssqlk.rar 
+[第29课]VB简单实现QQ聊天 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/vbliao.rar 
+[第28课]不用FTP刷新IP文件 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/buftp.rar 
+[第27课]webremote使用 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/webremote1.rar 
+[第26课]CnSpider的linux安装演示一 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/linux1.rar 
+[第26课]硬盘分区的神 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yingpanfenqu.rar 
+[第25课]升级免费拿QB不会封 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/mianQQ.rar 
+[第24课]BlackICE使用动画 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/blackice.rar 
+[第23课]MDaemon8漏洞 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/MDaemon8.rar 
+[第22课]MDaemon7漏洞 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/MDaemon7.rar 
+[第21课]网吧破解动画教程 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/wangbapo.rar 
+[第20课]溯雪网页爆破的神兵利器 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/sxwp.rar 
+[第19课]ServU密码分析及破解 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/server-uj.rar 
+[第18课]破解Pcanywhere密码 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/pcAnywhere.rar 
+[第17课]攻防实验室第一关另类过关方法 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/lab.rar 
+[第16课]堕落青年：免杀之花指令 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn//vip1-down/hua.rar 
+[第15课]破解QQ四国军旗刷分器 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/sgjq.rar 
+[第14课]实战入侵虚拟主机 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/dylx.rar 
+[第13课]克隆2003管理员 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/kelong2003.rar 
+[第12课]脱动易2005漏洞利用工具壳 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/tk.rar 
+[第10课]脚本入侵实例录象 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/jiaoben.rar 
+
+[第49课]配置RQS 
+迅雷专用高速下载   http://vipsoft.hacker.com.cn/vip-down/200610/RQS.rar 
+[第48课]百度搜索你是我的红娘 
+迅雷专用高速下载   http://vipsoft.hacker.com.cn/vip-down/200610/hongniang.rar 
+[第47课]梦幻木马使用教程 
+迅雷专用高速下载   http://vipsoft.hacker.com.cn/vip-down/200610/mhmm.rar 
+[第46课]木马网络特征分析 
+迅雷专用高速下载   http://vipsoft.hacker.com.cn/vip-down/200610/mmfx.exe 
+[第45课]挂马新方法 
+迅雷专用高速下载   http://vipsoft.hacker.com.cn/vip-down/200610/gmxff.rar 
+[第44课]淡紫深蓝过全系统网马演示 
+迅雷专用高速下载   http://vipsoft.hacker.com.cn/vip-down/200610/dzsl.rar 
+[第43课]中秋节刷QQ业务(会员+四钻） 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/200610/zqqq.rar 
+[第42课]快捷地查看QQ好友加密相册的置顶相片 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/3000/20060430/kanqq.zip 
+[第41课]win2000 server vpn 设置 
+http://vipsoft1.hacker.com.cn/vip1-dow ... funny_win2k_vpn_nat.rar 
+[第40课]黑防VIP下载加速 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/tgxz.rar 
+[第39课]轻松拿网站WebShell 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/nser1.rar 
+[第38课]磁盘，文件和注册表监视工具的使用 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/monitor.rar 
+[第37课]几款实用计算机安全软件使用 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/tools-1.rar 
+[第36课]自启动项目查看分析动画 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/autoruns.rar 
+[第35课]建立VPN连接加速网通与电信的互相访问 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/VPN.rar 
+[第34课]扫描系列之一：讲解TCP三次握手，ICMP,ARP,UDP 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/protocol.rar 
+[第33课]攻防系列之二：metasploit framework 教程 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/metasploit.rar 
+[第32课]攻防系列之一：netcat教程 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/netcat.rar 
+[第31课]个人电脑维护系列之一:如何使您的电脑在上网冲浪 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/virus.rar 
+[第31课]动态网站建设之数据库的读取 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/dongrtai.rar 
+[第30课]log parser使用动画（二） 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/log%20parser.rar 
+[第29课]log parser使用动画（一） 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/logparser.rar 
+[第28课]Google Hack(三） 
+http://vipsoft1.hacker.com.cn/vip-do ... 60221/googlehack3.rar 
+[第27课]Google Hack(二） 
+http://vipsoft1.hacker.com.cn/vip-do ... 60220/Googlehack2.rar 
+[第26课]Google Hack(一） 
+http://vipsoft1.hacker.com.cn/vip-do ... 60219/Googlehack1.rar 
+[第25课]WMI系列教程（三） 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip-down/donghua/20060210/WMI-3.rar 
+[第24课]WMI系列教程（二 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip-down/donghua/20060209/WMI-2.rar 
+[第23课]WMI系列教程（一） 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip-down/donghua/20060208/WMI-1.rar 
+[第23课]配置SNMP代理 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip-down/donghua/20060207/1snmp.rar 
+[第23课]服务器架设教程 
+http://vipsoft1.hacker.com.cn/vip ... /20060206/server.rar 
+[第22课]X-SCAN使用动画 
+http://vipsoft1.hacker.com.cn/vip- ... 20060123/2X-Scan.rar 
+[第21课]嗅探真实的下载地址或者铃声地址 
+http://vipsoft1.hacker.com.cn/vip- ... 20060120/sniffer.rar 
+[第20课]通用病毒清除方法-sc.exe,netsvc.exe的使用 
+http://vipsoft1.hacker.com.cn/vip ... /20060118/clean3.rar 
+[第19课]通用病毒清除方法-killbox,IceSword,tips 
+http://vipsoft1.hacker.com.cn/vip ... /20060117/clean2.rar 
+[第18课]命令行工具来替换被锁定的操作系统文件一 
+http://vipsoft1.hacker.com.cn/vip ... /20060116/clean1.rar 
+[第17课]代理服务器架设以及术语解释2 
+http://vipsoft1.hacker.com.cn/vip ... /20060113/proxy2.rar 
+[第16课]代理服务器架设以及术语解释 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/proxy.rar 
+[第15课]批处理实例解析 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/bateg.rar 
+[第13课]for命令解析 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/for.rar 
+[第12课]批处理教学(2) 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/pi2.rar 
+[第11课]批处理教学（1） 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/pi1.rar 
+[第10课]个人电脑安全及性能优化 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/geren.rar 
+[第9课]瑞士军刀 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/ruisijundao.rar 
+[第8课]MT使用详解 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/MT.rar 
+[第7课]tasklist taskkill shutdown 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/task.rar 
+[第6课]nslookup的命令介绍 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/nslookup.rar 
+[第5课]net命令使用方法 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/viptools/net.rar 
+[第4课]在VMware中配置远程SoftICE 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/SoftICE.rar 
+[第3课]构造最适合黑客演练的虚拟机系统 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/gouzhu.rar 
+[第2课]Vmware下Windows的安装(2) 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/vmware2.rar 
+[第1课]Vmware下Windows的安装 
+迅雷专用高速下载   http://vipsoft1.hacker.com.cn/vip1-down/yuyin/vmware1.rar

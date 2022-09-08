@@ -1,0 +1,12 @@
+linux学习(一)-桌面简介
+http://www.3800hk.com/donghua/g/20741.html
+linux学习(二)-命令介绍
+http://www.3800hk.com/donghua/g/20755.html
+linux学习(三)-目录介绍
+http://www.3800hk.com/donghua/g/20769.html
+linux学习(四)-系统日志
+http://www.3800hk.com/donghua/g/20783.html
+linux学习(五)-踪迹隐藏
+http://www.3800hk.com/donghua/g/20797.html
+linux学习(六)-VI编辑器
+http://www.3800hk.com/donghua/g/20811.html
